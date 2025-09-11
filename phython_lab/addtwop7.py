@@ -1,0 +1,10 @@
+a=int(input("Enter a number"))
+b=int(input("enter a number"))
+add=a+b
+sub=a-b
+div=a/b
+mult=a*b
+print("addition = ",add)
+print("substraction = ",sub)
+print("division = ",div)
+print("multiplication = ",mult)
